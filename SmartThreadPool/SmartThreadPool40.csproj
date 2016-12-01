@@ -83,6 +83,9 @@
     <Compile Include="WorkItemsGroupBase.cs" />
     <Compile Include="WorkItemsQueue.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="SmartThreadPool40.nuspec" />
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSHARP.Targets" />
   <Import Project="sign.proj" Condition="'$(Configuration)|$(Platform)' == 'Publish|AnyCPU'" />
   <ProjectExtensions>

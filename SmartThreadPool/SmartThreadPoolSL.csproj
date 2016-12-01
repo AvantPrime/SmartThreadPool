@@ -98,6 +98,9 @@
     <Compile Include="WorkItemsGroupBase.cs" />
     <Compile Include="WorkItemsQueue.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="SmartThreadPoolSL.nuspec" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.CSharp.targets" />
   <Import Project="sign.proj" Condition="'$(Configuration)|$(Platform)' == 'Publish|AnyCPU'" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
