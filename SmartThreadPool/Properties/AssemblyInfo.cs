@@ -15,10 +15,10 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyVersion("2.2.*")]
 [assembly: AssemblyFileVersion("2.0.0.0")]
 
-#if (_PUBLISH)
-[assembly: InternalsVisibleTo("STPTests,PublicKey=00240000048000009400000006020000002400005253413100040000010001004fe3d39add741ba7c8d52cd1eb0d94c7d79060ad956cbaff0e51c1dce94db10356b261778bc1ac3114b3218434da6fcd8416dd5507653809598f7d2afc422099ce4f6b7b0477f18e6c57c727ef2a7ab6ee56e6b4589fe44cb0e25f2875a3c65ab0383ee33c4dd93023f7ce1218bebc8b7a9a1dac878938f5c4f45ea74b6bd8ad")]
-#else
-[assembly: InternalsVisibleTo("STPTests")]
-#endif
+//#if (_PUBLISH)
+[assembly: InternalsVisibleTo("STPTests,PublicKey=002400000480000094000000060200000024000052534131000400000100010095453b8170d60f7db1a583c7a10acccccd6ce7b2079da28007e5fdcdd769a09f3b0298292350b01a2a44e0248cafcdb08c9a91023620e7c56533eca9f90107901580288c55955950fa732ffd0b5b933ddaa6d5a73497db2e2538ec5a2876d6f7787218fb0f22b5037732291c04b8c1577d4122bb53c3c89efc622436006193ef")]
+//#else
+//[assembly: InternalsVisibleTo("STPTests")]
+//#endif
 
 
