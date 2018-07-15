@@ -109,9 +109,9 @@
     <Reference Include="System.Xml">
       <Name>System.XML</Name>
     </Reference>
-    <ProjectReference Include="..\SmartThreadPool\SmartThreadPool20.csproj">
-      <Project>{74d4c33f-7cc8-4b2a-a7df-d8b6e63b6ebd}</Project>
-      <Name>SmartThreadPool20</Name>
+    <ProjectReference Include="..\SmartThreadPool\SmartThreadPoolMono.csproj">
+      <Project>{3462F30B-0156-409C-B256-6046D6F1764B}</Project>
+      <Name>SmartThreadPoolMono</Name>
     </ProjectReference>
     <ProjectReference Include="..\UsageControl\UsageControl.csproj">
       <Name>UsageControl</Name>

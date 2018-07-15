@@ -653,7 +653,7 @@ namespace SmartThreadPoolTests
                 bool equals = object.Equals(_state, state);
                 if (equals)
                 {
-                    WorkItemInfo currentWorkItemInfo = SmartThreadPool.CurrentThreadEntry.CurrentWorkItem.WorkItemInfo;
+	                WorkItemInfo currentWorkItemInfo = SmartThreadPool.CurrentThreadEntry.CurrentWorkItem.WorkItemInfo;
                     equals = CompareWorkItemInfo(currentWorkItemInfo, _neededWorkItemInfo);
                 }
                 if (SleepTime > 0)

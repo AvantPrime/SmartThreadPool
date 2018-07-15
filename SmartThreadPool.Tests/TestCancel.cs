@@ -3,6 +3,7 @@ using System.Threading;
 using NUnit.Framework;
 
 using Amib.Threading;
+using NUnit.Framework.Internal;
 
 namespace SmartThreadPoolTests
 {
