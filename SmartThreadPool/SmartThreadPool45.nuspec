@@ -10,7 +10,7 @@
 		<projectUrl>https://github.com/AvantPrime/SmartThreadPool</projectUrl>
 		<iconUrl>https://avantprime.s3-eu-west-1.amazonaws.com/images/logo-50x50.png</iconUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
-		<description>$description$</description>
+		<description>A SMART custom thread pool.</description>
 		<releaseNotes></releaseNotes>
 		<copyright>Copyright 2016</copyright>
 		<tags>thread pool,custom thread pool</tags>
