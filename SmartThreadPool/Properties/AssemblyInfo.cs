@@ -1,6 +1,9 @@
-﻿using System.Reflection;
+﻿using System;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
+
+[assembly: CLSCompliant(true)]
 
 [assembly: AssemblyTitle("AvantPrime.SmartThreadPool")]
 [assembly: AssemblyDescription("Smart Thread Pool")]

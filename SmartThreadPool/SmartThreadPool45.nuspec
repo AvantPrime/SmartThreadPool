@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <package >
 	<metadata>
-		<id>$id$</id>
+		<id>SmartThreadPool</id>
 		<version>$version$</version>
-		<title>$title$</title>
-		<authors>$author$</authors>
-		<owners>$author$</owners>
+		<title>Smart Thread Pool</title>
+		<authors>Avant Prime</authors>
+		<owners>Avant Prime</owners>
 		<licenseUrl>https://github.com/AvantPrime/SmartThreadPool/blob/master/LICENSE</licenseUrl>
 		<projectUrl>https://github.com/AvantPrime/SmartThreadPool</projectUrl>
 		<iconUrl>https://avantprime.s3-eu-west-1.amazonaws.com/images/logo-50x50.png</iconUrl>
@@ -13,6 +13,6 @@
 		<description>$description$</description>
 		<releaseNotes></releaseNotes>
 		<copyright>Copyright 2016</copyright>
-		<tags>.NET 4.5,thread pool,custom thread pool</tags>
+		<tags>thread pool,custom thread pool</tags>
 	</metadata>
 </package>
