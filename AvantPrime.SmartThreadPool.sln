@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkItemsGroupDemoMono", "W
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Windows", "Windows", "{ACF3EE89-CBCE-4AC8-A2DE-40D400175580}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartThreadPool45", "SmartThreadPool\SmartThreadPool45.csproj", "{9901CC77-B854-4EEA-B913-7BE2566005C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartThreadPool", "SmartThreadPool\SmartThreadPool.csproj", "{9901CC77-B854-4EEA-B913-7BE2566005C3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartThreadPool.Placeholder.Tests", "SmartThreadPool.Placeholder.Tests\SmartThreadPool.Placeholder.Tests.csproj", "{52CD29F1-531D-4A0C-ACF9-46759DD24D76}"
 EndProject
